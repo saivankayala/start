@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.sai {
+    text-align: center;
+    color: white;
+    background-image: url("https://img.freepik.com/free-photo/waterfall-clean-tourist-blue-flow-asian_1417-1350.jpg?w=1380&t=st=1664204675~exp=1664205275~hmac=f48064e74a67e662092af94e1d1bf9f1dc35e42978ab0675d3b2a66decc2db9d");
+    height: 100vh;
+}
+
+.okk {
+    text-align: left;
+}
+
+.button {
+    background-color: orange;
+    height: 35px;
+    width: 100px;
+    color: white;
+}
+
+.lll {
+    text-decoration: underline;
+}
